@@ -1,7 +1,7 @@
 # MOT: multi-object-tracking
 A data visualization library for computer vision
 
-![Alt_text](/utils/images/cvdv_cover.png)
+[![Mask RCNN on 4K Video](output/output.avi)]
 
 
 ## Object Detection
