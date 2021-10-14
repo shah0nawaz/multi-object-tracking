@@ -8,4 +8,34 @@ This repository implements the opencv single object tracking class for multiple 
 Besides, if you use multi object tracking class of opencv it does not give you the success score of every tracker. so you cannot interupte every object during tracking.
 
 
+### 1. Installation
+
+---
+
+    git clone https://github.com/shah0nawaz/multi-object-tracking.git
+    cd muti-object-tracking
+    pip install -r requirements.txt
+
+---
+
+### 1. Running CVDV
+
+    python main.py --video input/race.mp4 --tracker csrt
+
+1.1 **Parameters:**
+
+    --data_dir: Path of dataset directory
+
+    --details_level: Levels of details you wannt to fetch
+        . default: only class level information, or leave empty
+        . all: for image level and object level information
+
+    --im_size: Size of the images for [SQUARE IMAGES]
+
+    --im_h: Height of the image for [NON-SQUARE IMAGES]
+    --im_w: Width of the image for [NON-SQUARE IMAGES]
+
+
+
+
 
