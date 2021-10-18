@@ -1,5 +1,5 @@
 # MOT: Multiple Object Trackig
-An Mutiple Object Tracking Project
+Mutiple Object Tracking Project
 
 [!Demo Video](demo.mp4)]
 
