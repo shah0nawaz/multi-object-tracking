@@ -1,7 +1,7 @@
 # MOT: Multiple Object Trackig
 Mutiple Object Tracking Project
 
-[![Watch the video](https://github.com/shah0nawaz/multi-object-tracking/blob/main/demo.mkv)]
+[![Watch the video]](https://github.com/shah0nawaz/multi-object-tracking/blob/main/demo.mkv)
 
 
 This repository implements the opencv single object tracking class for multiple object tracking using python threading module on CPU. Because if you use single object tracking class of opencv sequentially without using threading module on CPU it will slow down the frame rate of the tracker and you cannot use it in real time. 
